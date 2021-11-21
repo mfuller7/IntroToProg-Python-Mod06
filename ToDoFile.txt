@@ -1,6 +1,0 @@
-homework,high
-dishes,low
-pycharm1,med
-pycharm2,low
-terminal1,high
-terminal2,med
